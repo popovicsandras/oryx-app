@@ -1,0 +1,14 @@
+*.log
+node_modules
+bundles
+workspace.xml
+.idea/
+dist/
+!systemjs.config.js
+src/environments/
+*.npmrc
+.happypack/
+.history
+.editorconfig
+package-lock.*
+.ng_pkg_build/
